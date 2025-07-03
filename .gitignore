@@ -1,0 +1,24 @@
+# Arquivos de configuração
+config/database.yml
+credentials.json
+.env
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+.*.swp
+
+# Arquivos gerados
+node_modules/
+dist/
+build/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Arquivos específicos do sistema
+._*
+*~
