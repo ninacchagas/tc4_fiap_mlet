@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/a6b0d43d1fff487dbb0cfba00385fe3d/artifacts
+end_time: 1751578070137
+entry_point_name: ''
+experiment_id: '463293934331527289'
+lifecycle_stage: active
+run_id: a6b0d43d1fff487dbb0cfba00385fe3d
+run_name: rebellious-fowl-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751578009843
+status: 4
+tags: []
+user_id: maria

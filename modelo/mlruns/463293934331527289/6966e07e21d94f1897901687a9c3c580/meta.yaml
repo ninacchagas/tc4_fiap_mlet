@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/6966e07e21d94f1897901687a9c3c580/artifacts
+end_time: 1751577866577
+entry_point_name: ''
+experiment_id: '463293934331527289'
+lifecycle_stage: active
+run_id: 6966e07e21d94f1897901687a9c3c580
+run_name: bold-yak-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751577800348
+status: 4
+tags: []
+user_id: maria

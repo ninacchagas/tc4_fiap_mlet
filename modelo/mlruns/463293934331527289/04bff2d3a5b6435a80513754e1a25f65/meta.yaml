@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/04bff2d3a5b6435a80513754e1a25f65/artifacts
+end_time: 1751729457271
+entry_point_name: ''
+experiment_id: '463293934331527289'
+lifecycle_stage: active
+run_id: 04bff2d3a5b6435a80513754e1a25f65
+run_name: crawling-hog-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751729388468
+status: 3
+tags: []
+user_id: maria

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/065a96b1a57b41698404cb5056238fd5/artifacts
+end_time: 1751739044109
+entry_point_name: ''
+experiment_id: '463293934331527289'
+lifecycle_stage: active
+run_id: 065a96b1a57b41698404cb5056238fd5
+run_name: hilarious-foal-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751738879622
+status: 3
+tags: []
+user_id: maria

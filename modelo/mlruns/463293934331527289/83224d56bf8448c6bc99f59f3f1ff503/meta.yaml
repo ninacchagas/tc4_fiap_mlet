@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/83224d56bf8448c6bc99f59f3f1ff503/artifacts
+end_time: 1751579106152
+entry_point_name: ''
+experiment_id: '463293934331527289'
+lifecycle_stage: active
+run_id: 83224d56bf8448c6bc99f59f3f1ff503
+run_name: receptive-yak-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751579047895
+status: 3
+tags: []
+user_id: maria
