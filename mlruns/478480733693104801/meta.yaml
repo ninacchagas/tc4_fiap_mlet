@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/478480733693104801
+creation_time: 1751847680530
+experiment_id: '478480733693104801'
+last_update_time: 1751847680530
+lifecycle_stage: active
+name: Previsao_Stock_LSTM

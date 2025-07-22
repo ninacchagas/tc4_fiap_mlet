@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289
+creation_time: 1751418853092
+experiment_id: '463293934331527289'
+last_update_time: 1751418853092
+lifecycle_stage: active
+name: Previsao_Stock_LSTM

@@ -1,0 +1,20 @@
+artifact_path: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/models/m-18122c308beb482ebb4d89b83826af92/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.10.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.12.10
+mlflow_version: 3.1.1
+model_id: m-18122c308beb482ebb4d89b83826af92
+model_size_bytes: 62770
+model_uuid: m-18122c308beb482ebb4d89b83826af92
+prompts: null
+run_id: d3c07f0f6c884c519eaaad3357eb0b63
+utc_time_created: '2025-07-03 21:13:15.180012'

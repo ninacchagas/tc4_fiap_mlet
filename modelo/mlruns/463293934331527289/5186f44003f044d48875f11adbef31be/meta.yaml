@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/5186f44003f044d48875f11adbef31be/artifacts
+end_time: 1751574733611
+entry_point_name: ''
+experiment_id: '463293934331527289'
+lifecycle_stage: active
+run_id: 5186f44003f044d48875f11adbef31be
+run_name: capable-bird-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751574427281
+status: 3
+tags: []
+user_id: maria

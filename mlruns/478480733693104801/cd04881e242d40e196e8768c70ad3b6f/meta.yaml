@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/478480733693104801/cd04881e242d40e196e8768c70ad3b6f/artifacts
+end_time: 1751847869552
+entry_point_name: ''
+experiment_id: '478480733693104801'
+lifecycle_stage: active
+run_id: cd04881e242d40e196e8768c70ad3b6f
+run_name: Treinamento_LSTM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751847681959
+status: 3
+tags: []
+user_id: maria

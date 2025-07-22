@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/42a1437e4e5d45b48cc6fe3cb2901e80/artifacts
+end_time: 1751577739046
+entry_point_name: ''
+experiment_id: '463293934331527289'
+lifecycle_stage: active
+run_id: 42a1437e4e5d45b48cc6fe3cb2901e80
+run_name: enchanting-fawn-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751577677911
+status: 3
+tags: []
+user_id: maria

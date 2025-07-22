@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/d3c07f0f6c884c519eaaad3357eb0b63/artifacts
+end_time: 1751577229014
+entry_point_name: ''
+experiment_id: '463293934331527289'
+lifecycle_stage: active
+run_id: d3c07f0f6c884c519eaaad3357eb0b63
+run_name: capable-owl-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751577191816
+status: 3
+tags: []
+user_id: maria

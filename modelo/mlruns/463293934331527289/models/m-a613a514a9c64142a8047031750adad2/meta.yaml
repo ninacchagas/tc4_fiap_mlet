@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/models/m-a613a514a9c64142a8047031750adad2/artifacts
+creation_timestamp: 1751738880907
+experiment_id: '463293934331527289'
+last_updated_timestamp: 1751739040552
+model_id: m-a613a514a9c64142a8047031750adad2
+model_type: null
+name: model
+source_run_id: 065a96b1a57b41698404cb5056238fd5
+status: 2
+status_message: null

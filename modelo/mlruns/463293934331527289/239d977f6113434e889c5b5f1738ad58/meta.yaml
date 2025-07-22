@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Documentos/FIAP/entrega_4/modelo/mlruns/463293934331527289/239d977f6113434e889c5b5f1738ad58/artifacts
+end_time: 1751577539729
+entry_point_name: ''
+experiment_id: '463293934331527289'
+lifecycle_stage: active
+run_id: 239d977f6113434e889c5b5f1738ad58
+run_name: bedecked-roo-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751577475888
+status: 3
+tags: []
+user_id: maria
